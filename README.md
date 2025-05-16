@@ -4,7 +4,8 @@ This project focuses on developing a robust skin disease classification model us
 The architecture is based on the MobileNetV2 pretrained model, optimized to work efficiently with high accuracy while being lightweight enough for potential deployment on mobile devices or low-resource environments.
 
 Dataset
-Total images: 21,720
+Total images: 21,720 : https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset
+
 
 Number of classes: 10
 
